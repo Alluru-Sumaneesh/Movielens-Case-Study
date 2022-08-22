@@ -12,7 +12,8 @@ Analysis tasks performed:
     * User rating of the movie “Toy Story”
     * Top 25 movies by viewership rating
     * Find the ratings for all the movies reviewed by for a particular user of user id = 2696
-# Feature Engineering:
+   
+  * Feature Engineering:
 
     * Found out all the unique genres
     * Created a separate column for each genre category with a one-hot encoding ( 1 and 0) whether or not the movie belongs to that genre
